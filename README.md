@@ -1,15 +1,15 @@
 # Hi, I'm Chirag 👋
 
-I build systems that take over the boring parts of business.
-Self-taught, based in Indore, headed for Bengaluru.
+Most of my work lives where businesses already talk to their customers, WhatsApp, and I build the automation behind it.
+Based in Indore, headed for Bengaluru.
 
 ## What I work with
 - **Automation:** n8n (self-hosted), WhatsApp Business API (WATI)
 - **AI:** Claude API, prompt engineering
 - **Data:** Supabase + pgvector
 
-## Currently learning
-Python, RAG, MCP and LangGraph, in public.
+## Currently expanding towards
+Python, RAG, MCP and LangGraph.
 
 ## Work
 Projects go here as they ship, each with a demo video, the workflow, and an
